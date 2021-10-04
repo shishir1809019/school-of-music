@@ -4,10 +4,6 @@ import { NavLink } from "react-router-dom";
 import "./Navigation.css";
 
 const Navigation = () => {
-  const activeStyle = {
-    fontWeight: "bold",
-    color: "red",
-  };
   return (
     <>
       <Navbar bg="dark" variant="dark">
