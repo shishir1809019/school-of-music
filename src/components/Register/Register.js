@@ -6,9 +6,9 @@ const Register = () => {
     <div>
       <h3 className="my-3">Register Now</h3>
       <Form className="text-start w-75 mx-auto">
-        <Form.Group className="mb-3" controlId="formBasicPassword">
+        <Form.Group className="mb-3" controlId="formBasicName">
           <Form.Label>Your Name</Form.Label>
-          <Form.Control type="password" placeholder="Enter Your name" />
+          <Form.Control type="text" placeholder="Enter Your name" />
         </Form.Group>
         <Form.Group className="mb-3" controlId="formBasicEmail">
           <Form.Label>Email address</Form.Label>
