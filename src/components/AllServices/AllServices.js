@@ -4,7 +4,8 @@ import Service from "../Service/Service";
 
 const AllServices = () => {
   const [allServices, setAllServices] = useState([]);
-  console.log(allServices);
+
+  // load fake data from local db
   useEffect(() => {
     fetch("allServicesDb.json")
       .then((res) => res.json())

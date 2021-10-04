@@ -9,57 +9,57 @@
   {
     "id": 2,
     "name": "Drum Learning",
-    "fee": 1000,
-    "description": "Learning the flute is not difficult, but it can be if you do not maintain your focus or dedicate the right amount of time to practicing what you learn.",
+    "fee": 1300,
+    "description": "Learning the drum is not difficult, but it can be if you do not maintain your focus or dedicate the right amount of time to practicing what you learn.",
     "url": "https://www.roland.com/RolandComSite/media/uk/images/articles/HD-3.jpg"
   },
   {
     "id": 3,
     "name": "Guitar Learning",
     "fee": 800,
-    "description": "Learning the flute is not difficult, but it can be if you do not maintain your focus or dedicate the right amount of time to practicing what you learn.",
+    "description": "Learning the guitar is not difficult, but it can be if you do not maintain your focus or dedicate the right amount of time to practicing what you learn.",
     "url": "https://m.media-amazon.com/images/I/61AHZhBdhyL.jpg"
   },
   {
     "id": 4,
     "name": "Tabla Learning",
     "fee": 1200,
-    "description": "Learning the flute is not difficult, but it can be if you do not maintain your focus or dedicate the right amount of time to practicing what you learn.",
+    "description": "Learning the tabla is not difficult, but it can be if you do not maintain your focus or dedicate the right amount of time to practicing what you learn.",
     "url": "https://images-na.ssl-images-amazon.com/images/I/71jDaMCbGrL._AC_SL1500_.jpg"
   },
   {
     "id": 5,
     "name": "Ukulele Learning",
-    "fee": 1200,
-    "description": "Learning the flute is not difficult, but it can be if you do not maintain your focus or dedicate the right amount of time to practicing what you learn.",
+    "fee": 700,
+    "description": "Learning the ukulele is not difficult, but it can be if you do not maintain your focus or dedicate the right amount of time to practicing what you learn.",
     "url": "https://cdn.fanaticguitars.com/vintageguitars/210000007879/vintage-ukelele-natural-1-4.jpg"
   },
   {
     "id": 6,
     "name": "Dance Learning",
-    "fee": 1200,
-    "description": "Learning the flute is not difficult, but it can be if you do not maintain your focus or dedicate the right amount of time to practicing what you learn.",
+    "fee": 1100,
+    "description": "Learning the dance is not difficult, but it can be if you do not maintain your focus or dedicate the right amount of time to practicing what you learn.",
     "url": "https://styles.redditmedia.com/t5_2qhs0/styles/communityIcon_rxswkjzh0m761.jpg"
   },
   {
     "id": 7,
     "name": "Piano Learning",
-    "fee": 1200,
-    "description": "Learning the flute is not difficult, but it can be if you do not maintain your focus or dedicate the right amount of time to practicing what you learn.",
+    "fee": 900,
+    "description": "Learning the piano is not difficult, but it can be if you do not maintain your focus or dedicate the right amount of time to practicing what you learn.",
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Piano.svg/1200px-Piano.svg.png"
   },
   {
     "id": 8,
     "name": "Music Learning",
-    "fee": 1200,
-    "description": "Learning the flute is not difficult, but it can be if you do not maintain your focus or dedicate the right amount of time to practicing what you learn.",
+    "fee": 1500,
+    "description": "Learning the music is not difficult, but it can be if you do not maintain your focus or dedicate the right amount of time to practicing what you learn.",
     "url": "https://media.istockphoto.com/vectors/music-note-icon-vector-illustration-vector-id1175435360"
   },
   {
     "id": 9,
     "name": "Ektara Learning",
-    "fee": 1200,
-    "description": "Learning the flute is not difficult, but it can be if you do not maintain your focus or dedicate the right amount of time to practicing what you learn.",
+    "fee": 700,
+    "description": "Learning the ektara is not difficult, but it can be if you do not maintain your focus or dedicate the right amount of time to practicing what you learn.",
     "url": "https://4.imimg.com/data4/SG/BQ/GLADMIN-2/ektara-500x500.jpg"
   }
 ]

@@ -20,9 +20,13 @@ const Service = (props) => {
           />
           <Card.Body>
             <Card.Title>{name}</Card.Title>
+
+            <Card.Text>Fee: {fee}TK/month</Card.Text>
             <Card.Text>{description}</Card.Text>
           </Card.Body>
-          <Button variant="info">Add to Cart</Button>
+          <Button variant="info">
+            <i class="fas fa-cart-plus"></i> Add to Cart
+          </Button>
         </Card>
       </Col>
     </div>

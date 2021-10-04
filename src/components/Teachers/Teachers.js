@@ -3,6 +3,7 @@ import { Row } from "react-bootstrap";
 import Teacher from "../Teacher/Teacher";
 
 const Teachers = () => {
+  // fake data
   const teachers = [
     {
       id: 1,
@@ -16,7 +17,7 @@ const Teachers = () => {
       name: "Andru kishor",
       description:
         "Musicians and Music Composers like Lucky Akhand, Manam Ahmed, Prince Mahmud and Shawkat have also composed songs for him. ",
-      url: "https://bholarbani.com/wp-content/uploads/2020/07/FB_IMG_1594042782373.jpg",
+      url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvQbGSOShdIGI0BpFkSHXGTyLj2ECTEWWhIw&usqp=CAU",
     },
     {
       id: 1,
