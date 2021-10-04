@@ -19,11 +19,11 @@ const About = () => {
         <div className="w-25 p-3 bg-light">
           <h5>School History</h5>
           <p className="text-muted rounded">
-            It was the example set in Naples, where admission was by competitive
-            examination and tuition was free, that was then copied, with
-            modifications, in many European cities, including Paris (1795),
-            Bologna (1804), Milan (1807), Warsaw (1810), Florence and Prague
-            (1811).
+            It was the example set in Bangladesh, where admission was by
+            competitive examination and tuition was to low, that was then
+            copied, with modifications, in many European cities, including Paris
+            (1795), Bologna (1804), Milan (1807), Warsaw (1810), Florence and
+            Prague (1811).
           </p>
         </div>
       </div>
