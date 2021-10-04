@@ -25,7 +25,7 @@ const Service = (props) => {
             <Card.Text>{description}</Card.Text>
           </Card.Body>
           <Button variant="info">
-            <i class="fas fa-cart-plus"></i> Add to Cart
+            <i className="fas fa-cart-plus"></i> Add to Cart
           </Button>
         </Card>
       </Col>

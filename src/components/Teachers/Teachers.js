@@ -13,14 +13,14 @@ const Teachers = () => {
       url: "https://www.arthosuchak.com/wp-content/uploads/2015/03/james-f.jpg",
     },
     {
-      id: 1,
+      id: 2,
       name: "Andru kishor",
       description:
         "Musicians and Music Composers like Lucky Akhand, Manam Ahmed, Prince Mahmud and Shawkat have also composed songs for him. ",
       url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvQbGSOShdIGI0BpFkSHXGTyLj2ECTEWWhIw&usqp=CAU",
     },
     {
-      id: 1,
+      id: 3,
       name: "Tahsan",
       description:
         "Musicians and Music Composers like Lucky Akhand, Manam Ahmed, Prince Mahmud and Shawkat have also composed songs for him. ",
@@ -32,7 +32,7 @@ const Teachers = () => {
       <h3 className="my-3">Our Teachers</h3>
       <Row xs={1} md={3} className="g-4 container w-75 mx-auto">
         {teachers.map((teacher) => (
-          <Teacher teacher={teacher}></Teacher>
+          <Teacher key={teacher.id} teacher={teacher}></Teacher>
         ))}
       </Row>
     </div>
